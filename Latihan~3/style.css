@@ -1,0 +1,60 @@
+.Color .ColorName {
+    color: red;
+}
+.Color .HexaDecimal {
+    color: #ff0;
+}
+.Color .RGB {
+    color: rgb(123, 214, 40);
+}
+
+.TextAlign .Left {
+    text-align: left;
+}
+.TextAlign .Right {
+    text-align: right;
+}
+.TextAlign .Center {
+    text-align: center;
+}
+.TextAlign .Justify {
+    text-align: justify;
+}
+
+.TextIndent p {
+    text-indent: 50px;
+}
+
+.TextDecoration .None {
+    text-decoration: none;
+}
+.TextDecoration .UnderLine {
+    text-decoration: underline;
+}
+.TextDecoration .OverLine {
+    text-decoration: overline;
+}
+.TextDecoration .LineThrough {
+    text-decoration: line-through;
+}
+
+.TextTransform .None {
+    text-transform: none;
+}
+.TextTransform .LowerCase {
+    text-transform: lowercase;
+}
+.TextTransform .UpperCase {
+    text-transform: uppercase;
+}
+.TextTransform .Capitalize {
+    text-transform: capitalize;
+}
+
+.LetterSpacing h1 {
+    letter-spacing: 10px;
+}
+
+.WordSpacing h1 {
+    word-spacing: 10px;
+}

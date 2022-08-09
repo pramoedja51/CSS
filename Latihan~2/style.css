@@ -1,0 +1,27 @@
+.FontFamily {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.FontSize {
+    font-size: 80px;
+}
+
+.FontWeight {
+    font-weight: bold;
+}
+
+.FontVariant {
+    font-variant: small-caps;
+}
+
+.FontStyle {
+    font-style: italic;
+}
+
+.LineHeight {
+    line-height: 20px;
+}
+
+.ShortHand {
+    font: oblique small-caps lighter 15px/20px arial, verdana, sans-serif;
+}
