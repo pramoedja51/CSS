@@ -1,0 +1,37 @@
+a:link {
+    color: green;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: red;
+}
+a:visited {
+    color: grey;
+}
+
+.FC li:first-child a {
+    color: pink;
+}
+.LC li:last-child a {
+    color: orange;
+}
+.NC li:nth-child(2n) a {
+    color: teal;
+}
+
+.EG li:nth-child(even) a {
+    color: violet
+}
+.OG li:nth-child(odd) a {
+    color: violet
+}
+
+.FOT li:first-of-type a {
+    color: yellowgreen
+}
+.LOT li:last-of-type a {
+    color: maroon
+}
+

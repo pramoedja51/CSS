@@ -1,0 +1,86 @@
+.BG-C, .BG-I, .BG-P1, .BG-P2, .BG-P3, .BG-P4, .BG-P5, .BG-P6, .BG-P7, .BG-P8, .BG-P9, .BG-P10, .BG-P11, .BG-R, .BG-RY, .BG-RX, .Shorthand {
+    height: 400px;
+    width: 400px;
+    border: 1px solid #333;
+}
+
+.BG-C {
+    background-color: red;
+}
+
+.BG-I {
+    background-image: url(Mobil.jpg);
+}
+
+.BG-P1 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.BG-P2 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.BG-P3 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.BG-P4 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+.BG-P5 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.BG-P6 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+.BG-P7 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: 20% 20%;
+}
+.BG-P8 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: 20px 20px;
+}
+.BG-P9 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+.BG-P10 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.BG-P11 {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.BG-R {
+    background-image: url(Mobil.jpg);
+    background-repeat: no-repeat;
+}
+.BG-RY {
+    background-image: url(Mobil.jpg);
+    background-repeat: repeat-y;
+}
+.BG-RX {
+    background-image: url(Mobil.jpg);
+    background-repeat: repeat-X;
+}
+
+.Shorthand {
+    background: blue url(Mobil.jpg) center center no-repeat;
+}
